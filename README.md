@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bragouel@gmail.com**
 
-- ⚡ Fun fact **I love coding my own funny projects** 
+- ⚡ Fun fact **I love coding little funny projects** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
