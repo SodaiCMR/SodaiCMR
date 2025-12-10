@@ -1,6 +1,6 @@
 # Hi 👋, I'm Daryl
 
-Computer Science Student from Cameroon 🇨🇲
+Computer Science Student from Cameroon
 
 Curious mind with an insatiable appetite for knowledge and innovation. 
 
