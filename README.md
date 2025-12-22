@@ -6,8 +6,8 @@ Curious mind with an insatiable appetite for knowledge and innovation.
 
 ## 🚀 Current Projects
 
-- **Chess AI** - Implementing a chess game with adversarial artificial intelligence
-- **Cameroonian LLM** - Fine-tuning a Large Language Model to speak "Cameroonian"
+- **Chess AI** - Implementing a chess game with my own AI chess clown
+- **FrancanglaisLLM** - Fine-tuning a Large Language Model to speak "Francanglais 😂"
 
 ## 🌱 Learning
 
